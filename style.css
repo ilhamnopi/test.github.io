@@ -2,10 +2,10 @@ div {
   height: 100vh;
 }
 div.paralax {
-  background-image: url(images-header-ilham.png);
+  background-image: url("images-header-ilham.png");
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 300px;
+  min-height: 300px;
 }
