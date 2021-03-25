@@ -2,7 +2,7 @@ div {
   height: 100vh;
 }
 div.paralax {
-  background-image: url("images-header-ilham.png");
+  background-image: url("img/images-header-ilham.png");
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
